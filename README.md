@@ -14,7 +14,7 @@ Projeto desenvolvido utilizando à *Game Engine* [Unit](https://unity.com/pt).
 ### Recursos
 -Sprites [Game Art 2D](https:/gameart2d.com
 
-![Pudim](https://pudim.com.br/pudim.jpg)
+![Pudim](http://pudim.com.br/pudim.jpg)
 
 >Se a vida não ficar mais fácil, trate de ficar mais forte.
 
