@@ -2,14 +2,14 @@
 
 Por: ***Patrícia***
 
-Projeto desenvolvido utilizando à Game Engine Unity
+Projeto desenvolvido utilizando à *Game Engine* Unity
 
-###Objetivo
-Criar um sistema em que um personagem fica em cima de uma plataforma.Esse projeto foi construído em 2D.
+### Objetivo
+- Criar um sistema em que um personagem fica em cima de uma plataforma.Esse projeto foi construído em 2D.
 
-Elementos Utilizados
-Riggdbody
-BoxCollider
+### Elementos Utilizados
+- Riggdbody
+- BoxCollider
 
-###Recursos
-Game Art 2D
+### Recursos
+- Game Art 2D
