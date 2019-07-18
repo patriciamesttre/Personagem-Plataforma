@@ -12,7 +12,7 @@ Projeto desenvolvido utilizando à *Game Engine* [Unit](https://unity.com/pt).
 - BoxCollider
 
 ### Recursos
--Sprites [Game Art 2D](https:/gameart2d.com
+-Sprites [Game Art 2D](http:/gameart2d.com
 
 ![Pudim](http://pudim.com.br/pudim.jpg)
 
