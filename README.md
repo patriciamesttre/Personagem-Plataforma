@@ -19,4 +19,5 @@ Projeto desenvolvido utilizando à *Game Engine* [Unit](https://unity.com/pt).
 >Se a vida não ficar mais fácil, trate de ficar mais forte.
 
 *Exemplo de comando:*
-´´´Debug.log("teste");´´´
+
+```Debug.log("teste");```
