@@ -20,4 +20,6 @@ Projeto desenvolvido utilizando à *Game Engine* [Unit](https://unity.com/pt).
 
 *Exemplo de comando:*
 
-```Debug.log("teste");```
+```
+Debug.log("teste");
+```
